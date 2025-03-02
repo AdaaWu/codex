@@ -26,7 +26,7 @@ features:
   - title: 無聲吶喊
     details: 曾經的 CODEX 信徒，如今只能潛伏於 Git Commit 訊息之中，等待一場不會到來的 Merge
   - title: 邪教徒的狂想曲
-    details: 當 CTO 決定用 Figma 直接開發後端 API，我們知道，這個世界已經沒有希望了。
+    details: 當 CTO 決定用 Figma 直接開發後端 API，產品經理開始用 ChatGPT 生成 TypeScript，我們知道，這個世界已經沒有希望了。
 
 ---
 
