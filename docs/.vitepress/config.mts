@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/codex/',
   title: "Sunny's CodeX",
-  description: "Figma聖戰：異端的CODEX之書",
+  description: "Figma 聖戰：異端的 CODEX 之書",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -14,9 +14,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '異端誕生',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: '他用 Figma', link: '/figma-illuminati/f1-1.md' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
