@@ -17,7 +17,8 @@ export default defineConfig({
         text: '異端誕生',
         items: [
           { text: '他用 Figma', link: '/figma-illuminati/f1-1.md' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '後端的墮落', link: '/figma-illuminati/f1-2.md' },
+          // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
