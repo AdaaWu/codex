@@ -9,7 +9,8 @@ hero:
   actions:
     - theme: brand
       text: "最終審判日"
-      link: /markdown-examples
+      link: /figma-illuminati/f1-1
+      # link: /markdown-examples
     - theme: alt
       text: "代碼的救贖"
       link: /api-examples
