@@ -10,7 +10,8 @@ const { title } = useData() // 獲取頁面標題，確保切換頁面時刷新�
       src="https://giscus.app/client.js"
       data-repo="AdaaWu/codex"
         data-repo-id="R_kgDOOB9OhA"
-     
+        data-category="回應留言"
+        data-category-id="DIC_kwDOOB9OhM4Cni0R" 
         data-mapping="pathname"
         data-strict="1"
         data-reactions-enabled="1"
