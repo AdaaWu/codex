@@ -13,7 +13,7 @@ hero:
       # link: /markdown-examples
     - theme: alt
       text: "代碼的救贖"
-      link: /api-examples
+      # link: /api-examples
 
 features:
   - title: 信徒的自白
