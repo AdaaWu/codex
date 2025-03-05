@@ -5,6 +5,11 @@ export default defineConfig({
   base: '/codex/',
   title: "Sunny's CodeX",
   description: "Figma 聖戰：異端的 CODEX 之書",
+  head: [
+    // 加入不蒜子計數器腳本
+    ['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+  ],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -24,7 +29,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-     // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
 })
